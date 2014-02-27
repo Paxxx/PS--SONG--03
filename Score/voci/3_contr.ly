@@ -206,9 +206,19 @@ fis2\>				r4\!			r2
 
 %parteDIgiuseppe
 
+gis1~ gis4~
+gis2 g2~ g4~
+g1 fis4~
+fis1~ fis4~
+fis1 f4~
+f1~ f4
+e1~ e4
+dis1~ dis4~
+dis2 d2~ d4~
+d1 cis4~
+cis2~ cis4 c2~
+c2 b2~ b4
 
-
-gis4		
 		
 }
 

@@ -1,4 +1,6 @@
-
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = LilyPond
+% !TEX root = ../Ps_SONG#03.ly
 
 sopIaMusic = \relative c' 
 
@@ -175,11 +177,18 @@ b2\>	r4\!	r2
 
 %PARTEDIGIUSEPPE
 
-gis4
-
-
-
-
+gis1~ gis4~
+gis1~ gis4
+a1~ a4~
+a1~ \times 2/3 {a8~[ a8 ais~]}
+ais1~ ais4~
+ais1~ ais4~
+ais2 b2~ b4~
+b1~ b4
+c1~ c4~
+c1~ c4~
+c1~ c4~
+c2~ cis2~ cis4
 
 
 
